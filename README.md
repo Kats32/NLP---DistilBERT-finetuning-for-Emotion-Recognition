@@ -62,8 +62,7 @@ DistilBERT is a smaller and faster version of BERT that retains most of its perf
 - Learning rate experimentation
 - Class imbalance handling
 - Model checkpoint saving
-- Deployment using FastAPI
-- Simple web interface for live emotion prediction
+- Increasing accuracy and precision
 
 ## Why This Project?
 
