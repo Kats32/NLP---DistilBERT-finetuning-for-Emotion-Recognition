@@ -1,6 +1,4 @@
-# Emotion Recognition using DistilBERT (Work in Progress)
-
-### Status: Under Development
+# Emotion Recognition using DistilBERT
 
 This project focuses on fine-tuning a pre-trained transformer model (DistilBERT) for multi-class emotion classification using a Hugging Face dataset.
 
